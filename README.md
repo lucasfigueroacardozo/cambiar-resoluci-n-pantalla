@@ -1,2 +1,2 @@
-# cambiar-resoluci-n-pantalla
+# Cambiar Resolución de Pantalla
 Programa para cambiar la resolución de pantalla en Microsoft Windows.
